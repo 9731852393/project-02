@@ -1,2 +1,1 @@
-# Veeresh-j
-normal hacking
+# E-commerce platform for hotel
